@@ -20,10 +20,10 @@ The system democratizes solar assessment by eliminating the need for expensive o
 ## 🖼️ Screenshots
 
 ### 🔹 Homepage
-![Homepage](images/homepage.png)
+![Homepage](img/homepage.png)
 
 ### 🔹 Generated PDF Report
-[📄 View Sample Report](pdfs/sample-report.pdf)
+[📄 View Sample Report](img/sample-report.png)
 
 ---
 
